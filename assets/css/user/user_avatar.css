@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+html,body {
+    padding: 10px;
+    background-color: #F2F3F5;
+}
+
+
 .layui-card-body {
     width: 500px;
 }
